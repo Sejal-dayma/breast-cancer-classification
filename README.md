@@ -7,9 +7,13 @@ Overview
 The Breast Cancer Classification system is developed using Python and TensorFlow/Keras. The model is trained to classify tumors by analyzing essential features extracted from medical data. The project includes:
 
 Data preprocessing, including handling missing values and standardization.
+
 Splitting data into training and testing sets.
+
 Training a neural network for tumor classification.
+
 Evaluating model performance using accuracy metrics.
+
 A predictive system that classifies tumors based on user-provided data.
 
 Features
