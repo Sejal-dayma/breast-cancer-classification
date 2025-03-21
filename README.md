@@ -1,4 +1,4 @@
-# breast-cancer-classification
+# breast_cancer_classification
 Description
 
 This project predicts whether a breast tumor is benign or malignant using machine learning and neural networks. It leverages the Breast Cancer Wisconsin dataset, which includes various diagnostic features extracted from breast tumor samples.
